@@ -1,0 +1,7 @@
+.title_box h1:before {
+    content: '\1F37B';
+}
+
+.title_box h1:after {
+    content: '\1F37B';
+}
